@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "settings": {
+    "Daybreak": 400,
+    "Departure": 650,
+    "Dam Collapse": 950,
+    "Enable Darkness": true,
+    "Enable Low Water": true
+  }
+}
