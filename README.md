@@ -1,7 +1,7 @@
 ![20221231023838_1](https://user-images.githubusercontent.com/45665554/210132696-cbe946d9-5edf-403e-9c69-beb324910f26.jpg)
 # Stranger Night
 
- Adds a Day/Night cycle to the stranger.
+ Adds a Day/Night cycle to the stranger.  The stranger will start at night, then switch to day later in the cycle.
 
 ### Options
 * __Daybreak:__ The time, in seconds from the start of the loop, that the stranger switches from night to day.  Default is 400.
